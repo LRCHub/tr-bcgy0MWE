@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "PAPARAZZI～＊この物語はフィクションです～",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-19T04:30:31.619858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PAPARAZZI~*この物語はフィクションです~",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_PAPARAZZI~_この物語はフィクションです~_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PAPARAZZI〜*この物語はフィクションです〜",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_PAPARAZZI〜_この物語はフィクションです〜_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PAPARAZZI 〜*この物語はフィクションです〜",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_PAPARAZZI_〜_この物語はフィクションです〜_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PAPARAZZI～＊この物語はフィクションです～",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_PAPARAZZI~_この物語はフィクションです~_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PAPARAZZI～＊この物語はフィクションです～ - Paparazzi",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/05_PAPARAZZI~_この物語はフィクションです~_-_Paparazzi_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PAPARAZZI〜*この物語はフィクションです〜",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_PAPARAZZI〜_この物語はフィクションです〜_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PAPARAZZI ～* この物語はフィクションです～",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/07_PAPARAZZI_~__この物語はフィクションです~_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PAPARAZZI 〜*この物語はフィクションです〜",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_PAPARAZZI_〜_この物語はフィクションです〜_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PAPARAZZI～*この物語はフィクションです～",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_PAPARAZZI~_この物語はフィクションです~_RADWIMPS.txt"
+    }
+  ]
+}
